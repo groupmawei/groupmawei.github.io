@@ -5,7 +5,7 @@ title: Wei Ma Lab
 description: >- # this means to ignore newlines until "baseurl:"
   Welcom to Wei Ma Lab.
 baseurl: "" # the subpath of the site
-url: "https://groupmawei.github.io/" # the base hostname & protocol for the site
+url: "https://groupmawei.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/mawei.jpg
 google_analytics: "UA-121636368-3"
 
